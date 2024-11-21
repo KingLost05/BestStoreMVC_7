@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\setupvivobook\\Csharp\\BestStoreMVC_kled_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12BFAA01-2974-4A68-B973-21F38BE3AFDE}|BestStoreMVC\\BestStoreMVC.csproj|d:\\setupvivobook\\csharp\\beststoremvc_kled_7\\beststoremvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BFAA01-2974-4A68-B973-21F38BE3AFDE}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BFAA01-2974-4A68-B973-21F38BE3AFDE}|BestStoreMVC\\BestStoreMVC.csproj|d:\\setupvivobook\\csharp\\beststoremvc_kled_7\\beststoremvc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{12BFAA01-2974-4A68-B973-21F38BE3AFDE}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BFAA01-2974-4A68-B973-21F38BE3AFDE}|BestStoreMVC\\BestStoreMVC.csproj|d:\\setupvivobook\\csharp\\beststoremvc_kled_7\\beststoremvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12BFAA01-2974-4A68-B973-21F38BE3AFDE}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\setupvivobook\\Csharp\\BestStoreMVC_kled_7\\BestStoreMVC\\Migrations\\20241115061737_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BestStoreMVC\\Migrations\\20241115061737_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BFAA01-2974-4A68-B973-21F38BE3AFDE}|BestStoreMVC\\BestStoreMVC.csproj|d:\\setupvivobook\\csharp\\beststoremvc_kled_7\\beststoremvc\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BFAA01-2974-4A68-B973-21F38BE3AFDE}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BFAA01-2974-4A68-B973-21F38BE3AFDE}|BestStoreMVC\\BestStoreMVC.csproj|d:\\setupvivobook\\csharp\\beststoremvc_kled_7\\beststoremvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BFAA01-2974-4A68-B973-21F38BE3AFDE}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BFAA01-2974-4A68-B973-21F38BE3AFDE}|BestStoreMVC\\BestStoreMVC.csproj|d:\\setupvivobook\\csharp\\beststoremvc_kled_7\\beststoremvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BFAA01-2974-4A68-B973-21F38BE3AFDE}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\setupvivobook\\Csharp\\BestStoreMVC_kled_7\\BestStoreMVC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "BestStoreMVC\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\setupvivobook\\Csharp\\BestStoreMVC_kled_7\\BestStoreMVC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "BestStoreMVC\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-15T06:27:56.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\setupvivobook\\Csharp\\BestStoreMVC_kled_7\\BestStoreMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BestStoreMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\setupvivobook\\Csharp\\BestStoreMVC_kled_7\\BestStoreMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BestStoreMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T06:26:09.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241115061737_FirstMigration.cs",
+              "DocumentMoniker": "D:\\setupvivobook\\Csharp\\BestStoreMVC_kled_7\\BestStoreMVC\\Migrations\\20241115061737_FirstMigration.cs",
+              "RelativeDocumentMoniker": "BestStoreMVC\\Migrations\\20241115061737_FirstMigration.cs",
+              "ToolTip": "D:\\setupvivobook\\Csharp\\BestStoreMVC_kled_7\\BestStoreMVC\\Migrations\\20241115061737_FirstMigration.cs",
+              "RelativeToolTip": "BestStoreMVC\\Migrations\\20241115061737_FirstMigration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:17:37.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\setupvivobook\\Csharp\\BestStoreMVC_kled_7\\BestStoreMVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "BestStoreMVC\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\setupvivobook\\Csharp\\BestStoreMVC_kled_7\\BestStoreMVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "BestStoreMVC\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T05:41:09.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\setupvivobook\\Csharp\\BestStoreMVC_kled_7\\BestStoreMVC\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BestStoreMVC\\Services\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\setupvivobook\\Csharp\\BestStoreMVC_kled_7\\BestStoreMVC\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BestStoreMVC\\Services\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:40:42.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\setupvivobook\\Csharp\\BestStoreMVC_kled_7\\BestStoreMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BestStoreMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\setupvivobook\\Csharp\\BestStoreMVC_kled_7\\BestStoreMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BestStoreMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:15:50.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\setupvivobook\\Csharp\\BestStoreMVC_kled_7\\BestStoreMVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BestStoreMVC\\Models\\Product.cs",
+              "ToolTip": "D:\\setupvivobook\\Csharp\\BestStoreMVC_kled_7\\BestStoreMVC\\Models\\Product.cs",
+              "RelativeToolTip": "BestStoreMVC\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:45:05.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
